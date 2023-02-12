@@ -1,0 +1,53 @@
+header {
+    background-color: brown;
+}
+
+body {
+    background-color: crimson;
+}
+
+.tor {
+    height: 150px;
+    margin-top: 10px;
+}
+
+h1 {
+    color: cadetblue;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.pal-patin::before {
+    content: "🤣";
+    
+}
+
+.bob {
+    width: 60%;
+    height: 50%;
+}
+
+.short {
+    width: 20%;
+    height: 40%;
+}
+
+p {
+    background-color: rgb(23, 214, 214);
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    border: 5px dashed orange;
+    padding: 5px;
+    text-align: center;
+}
+
+footer {
+    background-color: blueviolet;
+}
+
+.art {
+    background-color: blueviolet;
+    border: 5px dashed orange;
+    padding: 5px;
+}
